@@ -1,0 +1,16 @@
+com.socialtripper.restapi
+com.socialtripper.restapi.config
+com.socialtripper.restapi.controllers
+com.socialtripper.restapi.dto.entities
+com.socialtripper.restapi.dto.messages
+com.socialtripper.restapi.dto.requests
+com.socialtripper.restapi.dto.thumbnails
+com.socialtripper.restapi.entities
+com.socialtripper.restapi.entities.enums
+com.socialtripper.restapi.exceptions
+com.socialtripper.restapi.mappers
+com.socialtripper.restapi.nodes
+com.socialtripper.restapi.repositories.graph
+com.socialtripper.restapi.repositories.relational
+com.socialtripper.restapi.services
+com.socialtripper.restapi.services.implementation
